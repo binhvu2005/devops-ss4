@@ -1,0 +1,5 @@
+Chỉ owner (root hoặc app user) được sửa nội dung → tránh bị phá cấu hình
+
+Các tiến trình khác vẫn đọc được để kết nối DB
+
+Không ai khác có quyền ghi → ngăn chèn mã độc, đổi mật khẩu DB
